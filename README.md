@@ -29,13 +29,13 @@
 
 ### 📊 GitHub Stats (Animated)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mahantakoushik&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahantakoushik&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
 ---
 
-### ⚡ Fun Animation
+<!--### ⚡ Fun Animation-->
 <p align="center">
   <img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif" width="250"/>
   <img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/AI.gif" width="250"/>
