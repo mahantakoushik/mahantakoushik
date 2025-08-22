@@ -22,7 +22,9 @@
 
 ### 🛠️ Tech & Tools I Use
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,fastapi,aws,docker,git,linux,vscode,anaconda,react,nodejs,javascript,typescript,html,css,nextjs,c,cpp,c#,go" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,fastapi,aws,docker,git,linux,vscode,anaconda,
+  react,nodejs,javascript,typescript,html,css,nextjs,
+  c,cpp,csharp,go" />
 </p>
 
 ---
