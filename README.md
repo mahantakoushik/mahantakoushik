@@ -21,7 +21,7 @@
 ---
 
 ### 🛠️ Tech & Tools I Use
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,fastapi,aws,docker,git,linux,vscode,anaconda,react,nodejs,javascript,typescript,html,css,nextjs,c,cpp,csharp,go" />
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,fastapi,aws,docker,git,linux,vscode,anaconda,react,nodejs,javascript,typescript,html,css,nextjs,c,cpp,go" />
 
 
 ---
