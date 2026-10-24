@@ -2,11 +2,11 @@
 <h1 align="center">
   Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">, I'm mahantakoushik
 </h1>
-<h3 align="center">AI Engineer • Math Enthusiast • Computer Scientist</h3>
+<h3 align="center">Computer Scientist • AI Enthusiast • Math Enthusiast</h3>
 
 <!-- Typing SVG Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&width=600&lines=AI+Engineer;Mathematics+Lover;Machine+Learning+Practitioner;Computer+Scientist;Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&width=600&lines=Computer+Scientist;AI+Enthusiast;Mathematics+Lover;Machine+Learning+Practitioner;Always+Learning+New+Things" alt="Typing SVG" />
 </p>
 
 ---
